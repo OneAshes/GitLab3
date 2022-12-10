@@ -1,0 +1,2 @@
+#Adding some changes in your code
+print(e=m*c^2)
